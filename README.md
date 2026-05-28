@@ -1,9 +1,15 @@
 # Analyse Automatique GMail avec Gemini AI
 
+
+[🇫🇷 Version Française](#-version-française) | [🇬🇧 English Version](#-english-version)
+
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Apps%20Script-green)
 ![Runtime](https://img.shields.io/badge/Google%20Apps%20Script-V8-green)
 ![Author](https://img.shields.io/badge/Auteur-Fabrice%20Faucheux-orange)
+
+## 🇫🇷 Version Française
+
 
 **[Français]**
 Un assistant intelligent pour Gmail qui utilise l'API Google Gemini pour trier vos emails, identifier ceux qui nécessitent une réponse et vous envoyer un résumé quotidien.
@@ -92,3 +98,12 @@ const CONFIG = {
   MODELE_IA: 'gemini-2.0-flash', 
   MAX_THREADS: 100 
 };
+
+
+---
+## 🇬🇧 English Version
+
+> English translation coming soon.
+
+---
+<p align="center"><a href="https://faucheux.bzh" target="_blank" style="color: inherit; text-decoration: none;">&lt;&gt; par Fabrice Faucheux</a></p>
